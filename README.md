@@ -49,5 +49,7 @@ python3 VTC.py input_hashes.xlsx
 **Input Format:**
 The input Excel file should have the hashes listed in the **first column (Column A)**.
 
+![CTI](CTI_Build.png)
+
 **Output:**
 The script generates a file named `HashConvertedOutput.xlsx` containing the scan results.
